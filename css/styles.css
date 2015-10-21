@@ -10,8 +10,8 @@ a:link, a:visited, a:hover, a:active {
 }
 
 
-/* Desktop */
-#desktop img {
+/* Images */
+img {
     display: block;
     margin: 0 auto;
 }
