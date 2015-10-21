@@ -1,0 +1,19 @@
+/* Body and Links */
+body {
+    margin: 0;
+    padding: 0;
+    background: #000;
+}
+
+a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+}
+
+
+/* Images */
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+
